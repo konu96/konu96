@@ -54,7 +54,7 @@ PR にアサインされたらすぐにレビューをします。MTG があり�
 - 領域に縛られず、越境するのが好きです。
   - 営業や不特定多数の前で話すのは嫌いです。
 - [Working Out Loud](https://blog.studysapuri.jp/entry/2018/11/14/working-out-loud) を意識しています。
-- [「名前のない仕事」ができる人は強い]
+- [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
 
 ## その他
 
