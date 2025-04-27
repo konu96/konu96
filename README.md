@@ -21,4 +21,5 @@
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=konu96&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konu96&theme=vue-dark&layout=compact" />
+  <img alt="github trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=konu96&theme=vue-dark&layout=compact" />
 </div>
